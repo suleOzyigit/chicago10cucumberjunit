@@ -1,0 +1,2 @@
+I create Constant file because at the user_role.feature I need to login as location(dark side, light, il) and user(team lead, teacher, students)
+to identify which user I am going to user. For this  I create UserUtilities. At the user utilities I wrote method but when somebody enter location they can use lovewr case upper case and coul be problem to avoid that problem I create AplicationConstant to store veriavble.

@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 26.54 sec <<< FAILURE!
+my information data driven test Menard Newbatt(room information functionality)  Time elapsed: 12.648 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[VA]> but was:<[]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at steps.RoomDetailsStepDefinitions.my_self_page_should_display_personal_information_for_that_user(RoomDetailsStepDefinitions.java:128)
+	at ✽.my self page should display personal information for that user(src/test/resources/features/room_information_excel.feature:28)
+
+my information data driven test Tabor Dullingham(room information functionality)  Time elapsed: 13.574 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[IL]> but was:<[VA]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at steps.RoomDetailsStepDefinitions.my_self_page_should_display_personal_information_for_that_user(RoomDetailsStepDefinitions.java:128)
+	at ✽.my self page should display personal information for that user(src/test/resources/features/room_information_excel.feature:28)
+
