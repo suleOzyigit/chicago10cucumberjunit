@@ -139,5 +139,7 @@ Map<String, Object> userInfo=DataBaseUtility.getRowMap(sql);
         SingInPractive singInPractive=new SingInPractive();
         singInPractive.logIn(email,password);
 
+        System.out.println("Sule Git Test");
+
     }
 }

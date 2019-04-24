@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/../BritErp_Expenses_CucumberBased/src/test/resources/features/ExpensesToSummitDataBase.feature" description="When user should be able to click save button" line="17" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62515a38-e932-4061-a9a5-44ddd6ca7104" name="Default Changelist" comment="" />
+    <list default="true" id="62515a38-e932-4061-a9a5-44ddd6ca7104" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GooglePages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GooglePages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,17 +21,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/GooglePages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/HuntPage.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="58">
+              <caret line="126" column="40" selection-start-line="126" selection-start-column="40" selection-end-line="143" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/runners/FailRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -120,10 +126,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/steps/HomePagePractice_steps.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/MapDetails_steps.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/TeamDetailsPractice_steps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/teamdetail.feature" />
@@ -158,7 +166,6 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/MyTeamPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/team_info_back_end_testing.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/room_information_excel.feature" />
         <option value="$PROJECT_DIR$/src/test/java/pages/ExpenseDescriptionpage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/create-authorization.feature" />
@@ -174,6 +181,8 @@
         <option value="$PROJECT_DIR$/src/test/java/steps/CreateUserAPIStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/create_aurtorizatiob.feature" />
         <option value="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/GooglePages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java" />
       </list>
     </option>
   </component>
@@ -201,6 +210,7 @@
     <option name="width" value="1345" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -469,8 +479,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="95" y="23" width="1345" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40445128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41059095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,9 +495,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31897557" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31779662" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.24343015" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -527,6 +538,17 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" weight="0.32967034" />
     </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/GooglePages.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/mapDetails.feature">
@@ -728,16 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="120" column="56" selection-start-line="120" selection-start-column="56" selection-end-line="120" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BookITRestUtility.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -841,13 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/GooglePages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/HuntPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -911,6 +916,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/GooglePages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/BackendTestStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="126" column="40" selection-start-line="126" selection-start-column="40" selection-end-line="143" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

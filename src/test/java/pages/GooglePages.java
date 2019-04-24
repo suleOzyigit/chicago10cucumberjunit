@@ -1,4 +1,4 @@
-package pages;
+//git remote add origin https://github.com/suleOzyigit/chicago10cucumberjunit.gitpackage pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -19,6 +19,7 @@ public class GooglePages {
 
     @FindBy(xpath = "(//input[@value='Google Search'])[1]")
     public WebElement googleSearch;
+
 
 
 }
