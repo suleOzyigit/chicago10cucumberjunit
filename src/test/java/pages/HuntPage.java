@@ -40,5 +40,8 @@ public class HuntPage extends NavigationMenu {
         String xpath = "//span[contains(.,'" + endTime + "')]";
         BrowserUtilities.wait(1);
         Driver.getDriver().findElement(By.xpath(xpath)).click();
+
+
+
     }
 }

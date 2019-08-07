@@ -1,0 +1,68 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 411163,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Student Atribute validation",
+        "description": "",
+        "id": "single-student-api-automation;student-atribute-validation",
+        "after": [
+          {
+            "result": {
+              "duration": 6618,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user hits single student API with \"http://cybertekchicago.com/student/88\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user test for required attribitues",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@singlestudent"
+          }
+        ]
+      }
+    ],
+    "name": "Single student API automation",
+    "description": "",
+    "id": "single-student-api-automation",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/StudentAPIpractice.feature",
+    "tags": []
+  }
+]

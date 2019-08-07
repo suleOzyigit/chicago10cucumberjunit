@@ -1,4 +1,4 @@
-//git remote add origin https://github.com/suleOzyigit/chicago10cucumberjunit.gitpackage pages;
+package pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
